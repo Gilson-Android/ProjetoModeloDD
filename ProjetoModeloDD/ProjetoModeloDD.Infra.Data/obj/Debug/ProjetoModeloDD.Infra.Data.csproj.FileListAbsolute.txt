@@ -1,0 +1,12 @@
+C:\Users\Gilson\Documents\GitHub\ProjetoModeloDD\ProjetoModeloDD\ProjetoModeloDD.Infra.Data\bin\Debug\ProjetoModeloDD.Infra.Data.dll.config
+C:\Users\Gilson\Documents\GitHub\ProjetoModeloDD\ProjetoModeloDD\ProjetoModeloDD.Infra.Data\bin\Debug\ProjetoModeloDD.Infra.Data.dll
+C:\Users\Gilson\Documents\GitHub\ProjetoModeloDD\ProjetoModeloDD\ProjetoModeloDD.Infra.Data\bin\Debug\ProjetoModeloDD.Infra.Data.pdb
+C:\Users\Gilson\Documents\GitHub\ProjetoModeloDD\ProjetoModeloDD\ProjetoModeloDD.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\Gilson\Documents\GitHub\ProjetoModeloDD\ProjetoModeloDD\ProjetoModeloDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gilson\Documents\GitHub\ProjetoModeloDD\ProjetoModeloDD\ProjetoModeloDD.Infra.Data\bin\Debug\ProjetoModeloDD.Domain.dll
+C:\Users\Gilson\Documents\GitHub\ProjetoModeloDD\ProjetoModeloDD\ProjetoModeloDD.Infra.Data\bin\Debug\ProjetoModeloDD.Domain.pdb
+C:\Users\Gilson\Documents\GitHub\ProjetoModeloDD\ProjetoModeloDD\ProjetoModeloDD.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\Gilson\Documents\GitHub\ProjetoModeloDD\ProjetoModeloDD\ProjetoModeloDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gilson\Documents\GitHub\ProjetoModeloDD\ProjetoModeloDD\ProjetoModeloDD.Infra.Data\obj\Debug\ProjetoModeloDD.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\Gilson\Documents\GitHub\ProjetoModeloDD\ProjetoModeloDD\ProjetoModeloDD.Infra.Data\obj\Debug\ProjetoModeloDD.Infra.Data.dll
+C:\Users\Gilson\Documents\GitHub\ProjetoModeloDD\ProjetoModeloDD\ProjetoModeloDD.Infra.Data\obj\Debug\ProjetoModeloDD.Infra.Data.pdb

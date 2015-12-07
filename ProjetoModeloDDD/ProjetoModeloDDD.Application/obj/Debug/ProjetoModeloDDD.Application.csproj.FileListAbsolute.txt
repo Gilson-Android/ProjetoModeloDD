@@ -1,0 +1,4 @@
+C:\Users\Gilson\Documents\GitHub\ProjetoModeloDD\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Application.dll
+C:\Users\Gilson\Documents\GitHub\ProjetoModeloDD\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Application.pdb
+C:\Users\Gilson\Documents\GitHub\ProjetoModeloDD\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.dll
+C:\Users\Gilson\Documents\GitHub\ProjetoModeloDD\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.pdb

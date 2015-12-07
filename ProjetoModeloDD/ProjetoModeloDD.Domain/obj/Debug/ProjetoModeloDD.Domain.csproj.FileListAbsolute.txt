@@ -1,0 +1,5 @@
+C:\Users\Gilson\Documents\GitHub\ProjetoModeloDD\ProjetoModeloDD\ProjetoModeloDD.Domain\bin\Debug\ProjetoModeloDD.Domain.dll
+C:\Users\Gilson\Documents\GitHub\ProjetoModeloDD\ProjetoModeloDD\ProjetoModeloDD.Domain\bin\Debug\ProjetoModeloDD.Domain.pdb
+C:\Users\Gilson\Documents\GitHub\ProjetoModeloDD\ProjetoModeloDD\ProjetoModeloDD.Domain\obj\Debug\ProjetoModeloDD.Domain.dll
+C:\Users\Gilson\Documents\GitHub\ProjetoModeloDD\ProjetoModeloDD\ProjetoModeloDD.Domain\obj\Debug\ProjetoModeloDD.Domain.pdb
+C:\Users\Gilson\Documents\GitHub\ProjetoModeloDD\ProjetoModeloDD\ProjetoModeloDD.Domain\obj\Debug\ProjetoModeloDD.Domain.csprojResolveAssemblyReference.cache
